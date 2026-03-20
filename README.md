@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Prathamesh
 
-<!--
-**Pratham-43/Pratham-43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring VLSI Engineer | PCB Design Enthusiast  
+🔧 Building my journey from circuit boards to chip design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 ENTC Engineering Student  
+- 🔍 Interested in **VLSI Design & Embedded Systems**  
+- 🛠️ Started with **PCB Designing** and hardware-level understanding  
+- 📈 Currently learning and improving step by step  
+
+---
+
+## ⚙️ Skills & Tools
+- 🧩 PCB Design: KiCad, Proteus  
+- 💻 Simulation: MATLAB, Multisim  
+- 🔌 Embedded: Arduino, ESP32  
+- 🧠 Basics of Digital Electronics & Circuit Design  
+
+---
+
+## 📂 Projects
+- 🔹 PCB Design Projects (custom circuits & layouts)  
+- 🔹 Embedded system mini projects using Arduino  
+- 🔹 Circuit simulations and testing  
+
+*(More coming soon...)*
+
+---
+
+## 📊 Goals
+- 📌 Build strong foundation in **VLSI & Digital Design**  
+- 📌 Work on real-world hardware projects  
+- 📌 Contribute to open-source electronics projects  
+
+---
+
+## 🤝 Connect with Me
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: (add your link here)
+
+---
+
+⭐ *“Learning step by step, building something meaningful.”*
