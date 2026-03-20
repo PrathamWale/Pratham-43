@@ -38,8 +38,8 @@
 ---
 
 ## 🤝 Connect with Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: (add your link here)
+- 📧 Email: prathamwale43@gmail.com.com  
+- 💼 LinkedIn: www.linkedin.com/in/prathamesh-wale
 
 ---
 
